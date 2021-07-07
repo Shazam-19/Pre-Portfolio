@@ -1,0 +1,12 @@
+ody {
+  margin: 0;
+  -webkit-font-smoothing: antialiased;
+}
+
+.font-exo {
+  font-family: 'Exo 2', sans-serif;
+}
+
+.font-space-mono {
+  font-family: 'Space Mono', monospace;
+}
